@@ -58,7 +58,7 @@ Contributions are what make the open source community such an amazing place to b
 ## Contact
 
 More Projects
-GitHub: [https://github.com/Shephali440/voice-assistant-master/edit/main/voice_assistant-master]
+GitHub: [https://github.com/Shephali440]
 
 
 
